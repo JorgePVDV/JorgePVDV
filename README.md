@@ -47,7 +47,7 @@ Resaltare: Pruebas de regresión
 Urban Routes
 sitio web y aplicación (alquiler de vehículos con distintas comodidades).
 
-### 1. Pantalla principal de Urban Routes
+### 1. Urban Routes
 
 ![Dashboard Design For a Car Rental Service by Shakuro on Dribbble](https://images.openai.com/static-rsc-4/Gs6xxABldVPfXaUxkq3wocnbSuctC0MfH8y4e4xpTSIA2vEhnM8K2-rtDEcQZi4yKmb6c_U8f2yhi3YbgpB1mMLNO6vb-z_KxXgQVLwKq6hUUxMCVVf_etaiZ3GIkXsB6Kjsn9ghp2FU8gT-0EW_BqMUXpMqmFOyE9eBe81SA5f9xZ1z9ipW13Cf4658dpWi?purpose=fullsize)
 
@@ -69,8 +69,6 @@ sitio web y aplicación (alquiler de vehículos con distintas comodidades).
 ### 🏆 urban-routes-pruebas de regresión
 
 Urban Routes - Pruebas de regresión e informes de errores
-
-### Texto listo para copiar
 
 Proyecto de pruebas de regresión para la aplicación web y móvil Urban Routes. Incluye ejecución de pruebas, reporte de errores, clasificación de gravedad y documentación de control de calidad.
 
