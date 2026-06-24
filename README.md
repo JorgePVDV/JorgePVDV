@@ -1,16 +1,37 @@
-## Hi there 👋
+# QA Engineer Portfolio
 
-<!--
-**JorgePVDV/JorgePVDV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola, soy Jorge Páez.
 
-Here are some ideas to get you started:
+Tecnólogo en Informática con interés en QA Manual y Automatización.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+
+- Manual Testing
+- API Testing
+- Postman
+- SQL
+- Jira
+- DevTools
+- JavaScript
+- HTML
+- CSS
+- C#
+- Excel
+- Google Sheets
+
+## Proyectos
+
+### Login Testing
+
+- Casos de prueba
+- Reportes de errores
+- Evidencias
+- Colección Postman
+
+### API Testing
+
+Pruebas CRUD utilizando Postman.
+
+### SQL
+
+Consultas básicas para validación de bases de datos.
