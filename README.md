@@ -2,6 +2,8 @@
 
 Hola, soy Jorge Páez.
 
+j.paez@outlook.com
+
 Tecnólogo en Informática con interés en QA Manual y Automatización.
 
 ## Habilidades
