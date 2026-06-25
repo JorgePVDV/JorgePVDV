@@ -43,7 +43,7 @@ Tecnólogo en Informática y QA Engineer Junior en formación, apasionado por la
 
 ### Proyecto 1 
 
-Resaltare: Pruebas de regresión
+## Pruebas de regresión
 Urban Routes
 sitio web y aplicación (alquiler de vehículos con distintas comodidades).
 
