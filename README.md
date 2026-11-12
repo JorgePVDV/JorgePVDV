@@ -4,10 +4,8 @@ Hola, soy Jorge Páez.
 
 j.paez@outlook.com
 
-Tecnólogo en Informática, certificado en QA Engineer Portafolio.
-
 # Sobre Mí
-Tecnólogo en Informática y QA Engineer Junior en formación, apasionado por la calidad del software y la mejora continua. Tengo conocimientos en pruebas funcionales, diseño de casos de prueba, validación de APIs REST con Postman, SQL y herramientas como Jira y DevTools. Mi experiencia en soporte técnico me permitió desarrollar habilidades de análisis, resolución de problemas y documentación de incidencias. Actualmente estoy construyendo mi carrera en QA y buscando una oportunidad para contribuir al desarrollo de productos de alta calidad.
+Tecnólogo en Informática y certificado QA Engineer Junior, apasionado por la calidad del software y la mejora continua. Tengo conocimientos en pruebas funcionales, diseño de casos de prueba, validación de APIs REST con Postman, SQL y herramientas como Jira y DevTools. Mi experiencia en soporte técnico me permitió desarrollar habilidades de análisis, resolución de problemas y documentación de incidencias. Actualmente estoy construyendo mi carrera en QA y buscando una oportunidad para contribuir al desarrollo de productos de alta calidad.
 
 
 ## Habilidades
