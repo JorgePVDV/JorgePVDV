@@ -400,6 +400,7 @@ Probé las funciones de la API frente a los requisitos del back-end y la documen
 - A documentar los resultados de forma clara para que otra persona pueda reproducirlos.
 </details>
 
+## Contacto
 
-
-tra severidad registrada 4.2%
+- LINKEDIN: https://www.linkedin.com/in/jorge-paez-qa/
+- Portafolio: https://jorgepvdv.github.io/JorgeQA/
