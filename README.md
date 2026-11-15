@@ -27,8 +27,8 @@ Tecnólogo en Informática y certificado QA Engineer Junior, apasionado por la c
 
 <details>
 <summary><b>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="20" height="20" alt="SQL Server" />
-  <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/86854460-13ff-45e4-b389-4dbfc416277a" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="25" height="25" alt="SQL Server" />
+  <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/86854460-13ff-45e4-b389-4dbfc416277a" />
   <h6>Análisis de logs y base de datos de una app de taxis</h6>
 </b></summary>
 <br>
