@@ -295,6 +295,7 @@ Cada caso de la hoja de cálculo incluye:
   </b></summary>
 <br>
 
+<h5 id="proyecto-tres">Proyecto 3</h5>
 Proyecto final de mi formación en pruebas de software (QA). Reúne en un solo trabajo la **teoría de las pruebas** y las pruebas de una plataforma de alquiler de scooters en tres frentes: **aplicación web**, **aplicación móvil** y **API**.
 
 **Autor:** Jorge Alberto Paez Vargas · QA Engineer
