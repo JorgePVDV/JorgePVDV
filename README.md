@@ -17,6 +17,8 @@ Tecnólogo en Informática y certificado QA Engineer Junior, apasionado por la c
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="48" height="48" alt="DevTools" />
   <img src="https://github.com/user-attachments/assets/a7d6e786-8fa1-4549-b730-a0665d60a6ab" width="48" height=48 alt="Excel"/>
   <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/928012b0-5439-4274-bb0f-c8ca3180373f" />
+  <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/86854460-13ff-45e4-b389-4dbfc416277a" />
+
   <p>Manual Testing</p>
   <p>API Testing</p>
 </p>
