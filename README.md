@@ -285,14 +285,13 @@ Cada caso de la hoja de cálculo incluye:
 </details>
 
 <details>
-<summary><b>
+<summary>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="25" height="25" alt="DevTools" />
   <img src="https://github.com/user-attachments/assets/a7d6e786-8fa1-4549-b730-a0665d60a6ab" width="25" height="25" alt="Excel"/>
   <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/928012b0-5439-4274-bb0f-c8ca3180373f" />
   <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/3d03fb00-9db3-4ced-b85c-644bccfa8e6c" />
-
-  <h6 id="proyecto-tres">Proyecto final de QA · Urban Scooter</h6>
-  </b></summary>
+  <b>Proyecto final de QA · Urban Scooter</b>
+  </summary>
 <br>
 
 <h5 id="proyecto-tres">Proyecto 3</h5>
