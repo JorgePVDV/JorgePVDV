@@ -148,14 +148,12 @@ Tras una actualización, las compañías reportaban ganancias distintas a las de
 </details>
 
 <details>
-<summary><b>
+<summary>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="25" height="25" alt="Jira" />
   <img src="https://skillicons.dev/icons?i=postman" width="25" height="25" alt="Herramientas" />
-  <h6 id="proyecto-dos">Pruebas de API · Urban Grocers</h6>
-</b></summary>
+  <b><h6 id="proyecto-dos">Pruebas de API · Urban Grocers</h6></b>
+</summary>
 <br>
-
-# 
 
 Proyecto del **Sprint 4** de mi formación en pruebas de software (QA). Analicé dos requisitos de la API de **Urban Grocers** (trabajo con kits y servicio de entrega «Order and Go»), diseñé casos de prueba, los ejecuté con **Postman** y reporté los errores encontrados en **Jira**.
 
