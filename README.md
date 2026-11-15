@@ -20,8 +20,6 @@ Tecnólogo en Informática y certificado QA Engineer Junior, apasionado por la c
   <a href="#proyecto-tres"><img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/928012b0-5439-4274-bb0f-c8ca3180373f" /></a>
   <a href="#proyecto-tres"><img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/3fea424a-d7a6-433b-b35f-d851ae47de6b" /></a>
 
-  
-
   <p>Manual Testing</p>
   <p>API Testing</p>
 </p>
@@ -151,7 +149,7 @@ Tras una actualización, las compañías reportaban ganancias distintas a las de
 <summary>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="25" height="25" alt="Jira" />
   <img src="https://skillicons.dev/icons?i=postman" width="25" height="25" alt="Herramientas" />
-  <b><h6>Pruebas de API · Urban Grocers</h6></b>
+  <b>Pruebas de API · Urban Grocers</b>
 </summary>
 <br>
 <h5 id="proyecto-dos">Proyecto 2</h5>
