@@ -11,11 +11,10 @@ Tecnólogo en Informática y certificado QA Engineer Junior, apasionado por la c
 ## Habilidades
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postman,sql,jira,chrome,js,html,css,cs&perline=8" alt="Herramientas" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/-%20-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/-%20-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets" />
+  <img src="https://skillicons.dev/icons?i=postman,js,html,css,cs&perline=5" alt="Herramientas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48" height="48" alt="Jira" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="48" height="48" alt="DevTools" />
 </p>
 
 - Manual Testing
