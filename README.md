@@ -28,15 +28,16 @@ Tecnólogo en Informática y certificado QA Engineer Junior, apasionado por la c
 
 ## Proyectos
 
-<details open>
-<summary><b>
+<details>
+<summary>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="25" height="25" alt="SQL Server" />
   <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/86854460-13ff-45e4-b389-4dbfc416277a" />
-  <h6 id="proyecto-uno">Análisis de logs y base de datos de una app de taxis</h6>
-</b></summary>
-<br> 
+  <b>Análisis de logs y base de datos de una app de taxis</b>
+</summary>
+<br>
+<h5 id="proyecto-uno">Proyecto 1</h5>
 
-Proyecto del **Sprint 7** de mi formación en pruebas de software (QA). Trabajé sobre una aplicación de taxis en dos frentes: **logs de servidor desde la consola** y **consultas SQL** sobre una base de datos de viajes en taxi de Chicago.
+Proyecto del de mi formación en pruebas de software (QA). Trabajé sobre una aplicación de taxis en dos frentes: **logs de servidor desde la consola** y **consultas SQL** sobre una base de datos de viajes en taxi de Chicago.
 
 **Autor:** Jorge Alberto Paez Vargas · QA Engineer
 **Estado:** entregado y aprobado
