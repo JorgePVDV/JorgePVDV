@@ -12,12 +12,12 @@ Tecnólogo en Informática y certificado QA Engineer Junior, apasionado por la c
 
 <p>
   <img src="https://skillicons.dev/icons?i=postman,js,html,css,cs&perline=5" alt="Herramientas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server" />
+  <a href="#proyecto-uno"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server" /></a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48" height="48" alt="Jira" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="48" height="48" alt="DevTools" />
   <img src="https://github.com/user-attachments/assets/a7d6e786-8fa1-4549-b730-a0665d60a6ab" width="48" height=48 alt="Excel"/>
   <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/928012b0-5439-4274-bb0f-c8ca3180373f" />
-  <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/86854460-13ff-45e4-b389-4dbfc416277a" />
+  <a href="#proyecto-uno"><img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/86854460-13ff-45e4-b389-4dbfc416277a" /></a>
 
   <p>Manual Testing</p>
   <p>API Testing</p>
@@ -29,7 +29,7 @@ Tecnólogo en Informática y certificado QA Engineer Junior, apasionado por la c
 <summary><b>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="25" height="25" alt="SQL Server" />
   <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/86854460-13ff-45e4-b389-4dbfc416277a" />
-  <h6>Análisis de logs y base de datos de una app de taxis</h6>
+  <h6 id="proyecto-uno">Análisis de logs y base de datos de una app de taxis</h6>
 </b></summary>
 <br>
 # 
