@@ -15,6 +15,7 @@ Tecnólogo en Informática y certificado QA Engineer Junior, apasionado por la c
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48" height="48" alt="Jira" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="48" height="48" alt="DevTools" />
+  <img src="excel.png" hidth="48" height=48 alt="Excel"/>
 </p>
 
 - Manual Testing
