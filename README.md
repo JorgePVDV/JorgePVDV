@@ -24,9 +24,9 @@ Tecnólogo en Informática y certificado QA Engineer Junior, apasionado por la c
 ## Proyectos
 
 <details>
-<summary><b>🔐 Login Testing</b></summary>
+<summary><b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="20" height="20" alt="SQL Server" /> <h1>Análisis de logs y base de datos de una app de taxis</h1></b></summary>
 <br>
-# Análisis de logs y base de datos de una app de taxis
+# 
 
 Proyecto del **Sprint 7** de mi formación en pruebas de software (QA). Trabajé sobre una aplicación de taxis en dos frentes: **logs de servidor desde la consola** y **consultas SQL** sobre una base de datos de viajes en taxi de Chicago.
 
@@ -129,14 +129,6 @@ El coeficiente vale 1 con buen clima y 2 con lluvia o tormenta, y se sospechaba 
 ### Ejercicio 4 · Número de viajes por compañía
 
 Tras una actualización, las compañías reportaban ganancias distintas a las de la app. Para revisar si el problema estaba en el conteo de viajes, uní `cabs` con `trips` y conté los viajes de cada compañía los días **15 y 16 de noviembre de 2017**, ordenados de mayor a menor por `trips_amount`.
-
----
-
-## Documento completo
-
-El detalle de cada ejercicio, con los comandos, las consultas SQL, los resultados y las capturas, está en el documento que entregué:
-
-👉 [Ver documento del proyecto](https://docs.google.com/document/d/1s5KazD0ko8KRXzInXQOFvweXhzsh_I8l/edit?usp=sharing)
 
 ## Qué aprendí
 
