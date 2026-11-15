@@ -147,8 +147,8 @@ Tras una actualización, las compañías reportaban ganancias distintas a las de
 
 <details>
 <summary><b>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48" height="48" alt="Jira" />
-  <img src="https://skillicons.dev/icons?i=postman,js,html,css,cs&perline=5" alt="Herramientas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="25" height="25" alt="Jira" />
+  <img src="https://skillicons.dev/icons?i=postman" width="25" height="25" alt="Herramientas" />
   <h6 id="proyecto-dos">Pruebas de API · Urban Grocers</h6>
 </b></summary>
 <br>
