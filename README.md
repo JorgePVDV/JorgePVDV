@@ -26,7 +26,7 @@ Tecnólogo en Informática y certificado QA Engineer Junior, apasionado por la c
 ## Proyectos
 
 <details>
-<summary><b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="20" height="20" alt="SQL Server" /> <h3>Análisis de logs y base de datos de una app de taxis</h1></b></summary>
+<summary><b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="20" height="20" alt="SQL Server" /> <h3>Análisis de logs y base de datos de una app de taxis</h6></b></summary>
 <br>
 # 
 
