@@ -11,8 +11,8 @@ Tecnólogo en Informática y certificado QA Engineer Junior, apasionado por la c
 ## Habilidades
 
 <p>
-  <a href="#proyecto-uno"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server" /></a>
-  <a href="#proyecto-uno"><img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/86854460-13ff-45e4-b389-4dbfc416277a" /></a>
+  <a href="#user-content-proyecto-uno"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server" /></a>
+  <a href="#user-content-proyecto-uno"><img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/86854460-13ff-45e4-b389-4dbfc416277a" /></a>
   <a href="#proyecto-dos"><img src="https://skillicons.dev/icons?i=postman,js,html,css,cs&perline=5" alt="Herramientas" /></a>
   <a href="#proyecto-dos"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48" height="48" alt="Jira" /></a>
   <a href="#proyecto-tres"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="48" height="48" alt="DevTools" /></a>
