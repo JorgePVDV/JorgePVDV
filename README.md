@@ -23,6 +23,43 @@ Tecnólogo en Informática y certificado QA Engineer Junior, apasionado por la c
 
 ## Proyectos
 
+## Proyectos
+
+<details>
+<summary><b>🔐 Login Testing</b></summary>
+<br>
+
+- Casos de prueba
+- Reportes de errores
+- Evidencias
+- Colección Postman
+
+🔗 [Ver README completo](https://github.com/JorgePVDV/NOMBRE-DEL-REPO)
+
+</details>
+
+<details>
+<summary><b>🔌 API Testing</b></summary>
+<br>
+
+Pruebas CRUD utilizando Postman.
+
+🔗 [Ver README completo](https://github.com/JorgePVDV/NOMBRE-DEL-REPO)
+
+</details>
+
+<details>
+<summary><b>🗄️ SQL</b></summary>
+<br>
+
+Escribe aquí la descripción del proyecto.
+
+🔗 [Ver README completo](https://github.com/JorgePVDV/NOMBRE-DEL-REPO)
+
+</details>
+
+
+
 ### Login Testing
 
 - Casos de prueba
